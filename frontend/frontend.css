@@ -1,0 +1,366 @@
+#nav{
+    background-color: #a00c37;
+    height: 850px;
+    width: 1800px
+}
+#img1{
+    margin-left: 100px; 
+    margin-top: 10px;
+}
+#nav-item1{
+    margin-left: 70px;
+    margin-top: 40px;
+    font-size: 14px; 
+    color: white;
+}
+#nav-link{
+    color: white;
+}
+#nav-item{
+    margin-left: 25px;
+    margin-top: 40px;
+    font-size: 14px; 
+    color: white;
+}
+#img2{
+   margin-left: 250px;
+    margin-top: 50px;
+}
+#body{
+height: 500px;
+}
+#img3-d{
+    width: 450px;
+    height: 420px; 
+    margin-top: 60px;
+    margin-left: -10px; 
+    background-color:#a00c37;
+}
+#img3{
+  margin-left: 80px; 
+  margin-top: 50px;
+}
+#col-1-1{
+  margin-top: 50px;
+   margin-left: 200px; 
+   margin-right: -60px; 
+   width: 600px;
+}
+#col-1-1-font{
+   font-size: 35px;
+   font-family: Arial Black,Arial Bold,Gadget,sans-serif;
+   line-height:1;
+}
+#col-1-2{
+     margin-top:  20px;
+     margin-left: 200px;
+     margin-right: -60px;
+     width: 500px; 
+}
+#col-1-2-font{
+font-size: 20px;
+}
+#col-2-1{
+     margin-top: 50px;
+     margin-right: 200px; 
+     margin-right: -60px;
+     width: 650px; 
+}
+#col-2-2{
+  margin-top: 20px; 
+  margin-right: 200px; 
+  margin-right: -60px;
+   width: 650px; 
+}
+#col-3-1{
+   width: 450px; 
+   height: 420px; 
+   margin-top: 60px; 
+   margin-left: 230px; 
+   background-color:#a00c37 ;
+}
+#img4{
+   margin-left: -140px; 
+   margin-top: 50px;
+}
+#img6{
+    margin-left: -50px;
+}
+#container2{
+background-color: #a00c37;
+height: 930px;
+width: 1300px; 
+margin-top: 150px;
+}
+#baslik{
+   font-size: 55px;
+    color: white; 
+}
+#baslik-cizgi{
+   margin-top: 20px;
+   margin-left: 500px; 
+   width: 300px;
+}
+#cizgi{
+   color: white;
+}
+#dik-cizgi1{
+   height: 100px; 
+   margin-left: 650px; 
+   margin-top: 20px;
+}
+#dik-cizgi-renk{
+    color: white;
+}
+#dik-cizgi-d{
+   color: white;
+    font-size: 30px;
+    margin-left: 640px;
+}
+#dik-cizgi2{
+  height: 100px;
+  margin-left: 650px;  
+}
+#dik-cizgi3{
+   height: 120px;
+   margin-left: 650px;  
+}
+#card1{
+   width: 30rem;
+   margin-left: 60px;
+   margin-top: -550px;
+    border-radius: 10px;
+}
+#card2{
+    width: 30rem;
+     margin-left: 10px;
+     margin-top: -390px; 
+    border-radius: 10px;
+}
+#card3{
+   width: 30rem; 
+   margin-left: 60px; 
+   margin-top: -250px;
+    border-radius: 10px;
+}
+#card4{
+   width: 30rem;
+    margin-left: 10px; 
+    margin-top: -60px;
+     border-radius: 10px;
+}
+#card1-d{
+   color: #a00c37;
+    margin-top: 15px;
+}
+#card2-d{
+   color: #a00c37;
+}
+#container3{
+   margin-top: 70px; 
+   height: 900px; 
+}
+#container3-d{
+   margin-left: 450px;
+}
+#d3-baslik{
+    font-size: 50px;
+}
+#d3-cizgi{
+margin-top: 20px; 
+margin-left: 500px;
+ width: 250px;
+}
+#d3-hr{
+ border-top: 2px solid black;
+}
+#img9{
+    margin-left: 180px; 
+    margin-top: 60px;
+}
+#container-card{
+    margin-top: 30px; 
+    margin-left: 80px;
+}
+#card-85{
+    border-radius: 40px; 
+    border-color: black; 
+    height: 90px;
+}
+#card-yazi{
+   margin-left: 120px; 
+   margin-top: -40px; 
+   font-size: 20px;
+}
+#card-85-d{
+   border-radius: 40px;
+    border-color: black;
+     height: 110px;
+      margin-top: 15px;
+}
+#card-85-d2{
+    border-radius: 40px; 
+    border-color: black;
+     height: 90px;  
+     margin-top: 15px;
+}
+#container4{
+   background-color: #a00c37;
+   height: 700px;
+}
+#container4-baslik{
+   font-size: 50px;  
+   color: white;
+    margin-top: 50px;
+}
+#container4-cizgi{
+   margin-top: 20px;
+    margin-left: 450px; 
+    width: 300px;
+}
+#container4-hr{
+  color: white; 
+  border-color: white;
+}
+#img10{
+    margin-top: 50px;
+     margin-left: 220px;
+}
+#container5{
+    height: 750px;
+}
+#container5-d{
+     margin-left: 525px; 
+     margin-top: 100px;
+}
+#container5-baslik{
+    font-size: 50px; 
+     color: black;
+      margin-top: 50px;
+}
+#container5-cizgi{
+   margin-top: 20px;
+    margin-left: 500px; 
+    width: 250px;
+}
+#container5-hr{
+    border-top: 1px solid black;
+}
+#form{
+    margin-top: 50px; 
+    border-color: black;
+}
+#form-Ad{
+    border-color: black; 
+    width: 300px;
+    margin-left: 150px; 
+    margin-top: 70px;
+}
+#form-okul{
+    border-color: black; 
+    width: 300px;
+     margin-left: 150px; 
+     margin-top: 20px;
+}
+#form-eposta{
+    border-color: black;
+     width: 300px; 
+      margin-top: 70px;
+}
+#form-bolum{
+    border-color: black;
+     width: 300px; 
+      margin-top: 20px;
+}
+#form-telefon{
+    border-color: black;
+     width: 300px; 
+     margin-left: -80px;
+      margin-top: 70px;
+}
+#form-sinif{
+    border-color: black;
+     width: 300px; 
+     margin-left: -80px; 
+      margin-top: 20px;
+}
+#form-mesaj{
+   border-color: black;
+    width: 620px;
+     height: 230px;
+      margin-left: 150px;
+       margin-top: 20px;
+}
+#form-check{
+    margin-left: 80px;
+     margin-top: 25px;
+      border-color: black;
+}
+#form-check2{
+   margin-left: 20px;
+    margin-top: 5px; 
+    border-color: black;
+}
+#form-file{
+    width: 200px;
+    margin-left: 150px; 
+    margin-top: -40px;
+}
+#container6{
+    background-color: #1597ad;
+     height: 920px;
+}
+#container6-baslik{
+   color: white; 
+   font-size: 40px; 
+   margin-left: 35px; 
+   margin-top: 50px;
+}
+
+#container6-p1{
+   color: white;
+    font-size: 21px;
+     margin-left: 27px; 
+     margin-top: 10px;
+}
+#container6-p2{
+   color: white;
+    font-size: 21px;
+     margin-left: 27px;
+}
+#img11{
+    margin-left: 62px;
+}
+#container7{
+    height: 300px;
+     margin-top: 70px;
+}
+#container8{
+    height: 300px;
+     background-color: #333333;
+}
+#img15{
+   margin-left: 430px; 
+   margin-top: 50px;
+}
+#footer-d1{
+   margin-left: 150px; 
+   margin-top: 110px;
+}
+#footer-yazi1{
+   color: white;
+    margin-left:  50px;
+     margin-top: -30px; 
+     font-size: 20px;
+}
+#footer-d2{
+    margin-left: 150px;
+     margin-top: 50px;
+}
+#footer-yazi2{
+    color: white; 
+    margin-left:  50px;
+     margin-top: -30px;
+      font-size: 20px; 
+      width: 300px;
+}
